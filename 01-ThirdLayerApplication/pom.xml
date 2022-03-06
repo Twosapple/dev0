@@ -6,7 +6,11 @@
 
     <groupId>com.fc</groupId>
     <artifactId>01-ThirdLayerApplication</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>02-MyBatis-01-Start</module>
+    </modules>
 
 
 </project>
